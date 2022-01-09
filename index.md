@@ -2,9 +2,7 @@
 
 ### Stanford University - Graduate School of Business
 655 Knight Way, Stanford, CA 94305 
-
 (650) 723-8119 
-
 [blowery@stanford.edu](blowery@stanford.edu)
 
 ### Education
