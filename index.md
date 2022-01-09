@@ -1,14 +1,16 @@
 ## Brian S. Lowery
 
 ### Stanford University - Graduate School of Business
-655 Knight Way, Stanford, CA 94305 
-(650) 723-8119 
-[blowery@stanford.edu](blowery@stanford.edu)
+655 Knight Way, Stanford, CA 94305 <br>
+(650) 723-8119 <br>
+[blowery@stanford.edu](blowery@stanford.edu) <br>
 
 ### Education
 
 Ph.D. Social psychology, June, 2002, University of California, Los Angeles Minor Area: Measurement and Psychometrics
+
 M.A. Social psychology, 1998, University of California, Los Angeles 
+
 B.S. Psychology, 1996, University of Illinois, Champaign-Urbana
 
 ### Positions
