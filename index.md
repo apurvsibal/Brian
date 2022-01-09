@@ -1,4 +1,4 @@
-![Brian S Lowery](https://github.com/apurvsibal/Brian/blob/gh-pages/SGSB-1001-Brian_LoweryRT.jpeg)
+![Brian S Lowery](/SGSB-1001-Brian_LoweryRT.jpeg)
 ## Brian S. Lowery
 
 ### Stanford University - Graduate School of Business
